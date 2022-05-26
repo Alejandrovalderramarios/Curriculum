@@ -1,0 +1,50 @@
+{
+	"nombre": "Alejandro Valderrama Ríos",
+	"fechaNacimiento": "24 09 2001",
+	"Resumen": "soy una persona optimista con ganas de salir adelante",
+	"telefono": "9841847886",
+	"puestoSolicitado": "programador junior" ,
+	"lenguages":[
+		"php",
+		"javascript",
+		"html",
+		"css"
+	],
+	"baseDeDatos":[
+		"Mysql",
+		"Sql Server",
+		"Postgres"
+	],
+	"paqueteria":[
+		"excel"
+	],
+	
+	"experienciaLaboral":[
+		{
+			"empresa": "windam alltra",
+			"Puesto": "ayudante de cocina",
+			"fechaIngreso": "6 de enero",
+			"fechaTermino": "hasta la fecha",
+			"responsabilidades":[
+						"preparar diferentes tipos de salseo, tanto frias como calientes",
+						"el hacer un cierre correcto en buffet de especialidades frio"
+						
+			]
+		},
+		{
+			"empresa": "pizza hot",
+			"Puesto": "pizzero",
+			"fechaIngreso": "enero 15 del 2021",
+			"fechaTermino": "junio 15 del 2021"
+		}
+
+    ],
+	"educacion":[
+		{
+			"escuela": "colegio de bachilleres",
+			"gradoEstudio": "preparatoria concluida",
+			"fechaIngreso": "enero 1 2016",
+			"fechaTermino": "junio 5 2020"
+		}
+	]
+}
